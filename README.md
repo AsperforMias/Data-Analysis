@@ -19,9 +19,9 @@ ummm老实说原本想问问大智慧的llm，office到底把哪个功能放在�
 ### Tech Stacks
 - **Lang**: Python
 - **Libraries**
-    - [**NumPy**](https://numpy.org/): For numerical computing and array operations.
-    - [**Matplotlib**](https://matplotlib.org/): A comprehensive library for creating static, interactive, and animated visualizations in Python.
-    - [**Pandas**](https://pandas.pydata.org/): A powerful tool for data analysis and manipulation.
+    - [**NumPy**](https://numpy.org/) : For numerical computing and array operations.
+    - [**Matplotlib**](https://matplotlib.org/) : A comprehensive library for creating static, interactive, and animated visualizations in Python.
+    - [**Pandas**](https://pandas.pydata.org/) : A powerful tool for data analysis and manipulation.
 
 ### License
 
